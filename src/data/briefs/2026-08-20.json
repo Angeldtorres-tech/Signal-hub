@@ -1,0 +1,219 @@
+{
+  "date": "2026-08-20",
+  "displayDate": "Thu · Aug 20, 2026",
+  "techSignals": [
+    {
+      "title": "💸 Token Costs",
+      "rows": [
+        {
+          "label": "Signal",
+          "text": "Frontier LLM price index hit 12 — 88% below March 2023 baseline of 100. DeepSeek V3 cheapest at $1.10/M output tokens. Claude Sonnet 5 introductory rate ($2/$10 per M tokens) expires August 31. (BenchLM.ai, Aug 19)"
+        },
+        {
+          "label": "Why it matters",
+          "text": "'AI is expensive' is a dead objection. Token deflation makes sophisticated agentic pipelines economically trivial — that's leverage in transformation pitches. The Sonnet 5 deadline is immediately operational for your own stack."
+        },
+        {
+          "label": "How to capitalize",
+          "text": "Interview line: \"I benchmark LLM cost against the frontier price index — it's down 88% since 2023, which changes the ROI math entirely for enterprise AI programs.\"",
+          "mono": true
+        }
+      ]
+    },
+    {
+      "title": "🔒 Privacy & Regulation",
+      "rows": [
+        {
+          "label": "Signal",
+          "text": "California CPPA's Article 11 ADMT compliance obligations are now active — risk assessments and opt-out rights required for automated decisions affecting consumers. Sen. Warner's AI AGENT Act proposes the first US federal framework for consumer AI agents. (FTI Consulting, Aug 2026)"
+        },
+        {
+          "label": "Why it matters",
+          "text": "ADMT compliance is becoming an enterprise procurement gate. Enablement leads who can't speak to it are being screened out early in the hiring process."
+        },
+        {
+          "label": "How to capitalize",
+          "text": "Add to resume: \"Designs AI adoption programs with embedded CPPA ADMT compliance checkpoints, NIST AI RMF alignment, and sustained usage KPIs — governance built in before deployment, not retrofitted.\"",
+          "mono": true
+        }
+      ]
+    },
+    {
+      "title": "⚡ Inference Speed & Cost",
+      "rows": [
+        {
+          "label": "Signal",
+          "text": "Gemini Flash's raw speed advantage (time-to-first-token) is offset by nearly 2x token verbosity vs. Claude. Fastest model ≠ cheapest model when benchmarked on cost per completed task."
+        },
+        {
+          "label": "Why it matters",
+          "text": "Enterprise buyers are moving from 'is AI fast enough?' to 'what is the real cost of speed?' Practitioners who frame this tradeoff provide strategic value commodity consultants can't match."
+        },
+        {
+          "label": "How to capitalize",
+          "text": "Interview framing: \"We benchmarked actual cost per completed task, not just latency — Gemini Flash's speed advantage was offset by nearly 2x token verbosity in our evaluation.\"",
+          "mono": true
+        }
+      ]
+    },
+    {
+      "title": "🖋 AI Watermarking & C2PA",
+      "rows": [
+        {
+          "label": "Signal",
+          "text": "All Claude models launched August 2+ embed invisible watermarks and C2PA provenance metadata — no opt-out — driven by EU AI Act Article 50 transparency obligations. Anthropic is backporting to pre-Aug 2 models. No public detector exists yet. (Forbes, Aug 13; ExplainX.ai, Aug 18)"
+        },
+        {
+          "label": "Why it matters",
+          "text": "Your AI Governance Framework documented C2PA as a compliance obligation before Anthropic deployed it at scale. That's a genuine first-mover credential — proactive governance versus reactive compliance."
+        },
+        {
+          "label": "How to capitalize",
+          "text": "\"I built C2PA provenance mapping into our governance framework in anticipation of EU AI Act Art. 50 enforcement — Anthropic's August 2 deployment validated the obligation I'd already mapped. That's the difference between leading governance design and cleaning up after a regulatory deadline.\"",
+          "mono": true
+        }
+      ]
+    },
+    {
+      "title": "🤖 Agentic Orchestration",
+      "rows": [
+        {
+          "label": "Signal",
+          "text": "Google ADK 2.0 exposes graph-based workflows alongside LangGraph and AutoGen. Graph engineering (nodes, edges, explicit routing, stateful checkpoints) is the emerging production standard for multi-agent systems. (V12 Labs, Aug 17)"
+        },
+        {
+          "label": "Why it matters",
+          "text": "'Agentic AI' on a resume is table stakes. The differentiator is graph-based orchestration fluency — stateful, conditional multi-agent systems with explicit handoff logic."
+        },
+        {
+          "label": "How to capitalize",
+          "text": "Add to technical skills: \"stateful multi-agent workflow design · graph-based agentic orchestration (LangGraph, ADK)\". Reference Emdash deployment as a production example.",
+          "mono": true
+        }
+      ]
+    }
+  ],
+  "hotThisWeek": [
+    {
+      "title": "1 · Anthropic Raised Its Own Risk Rating",
+      "rows": [
+        {
+          "label": "What happened",
+          "text": "Anthropic published a 186-page risk report revising its own safety verdict downward, disclosed it won't ship 'Model 2,' and admitted bioweapon classifiers were miscalibrated for 11 months. (Aug 18)"
+        },
+        {
+          "label": "How to capitalize",
+          "text": "Interview line: \"Anthropic's 186-page risk report this week shows even frontier labs are still closing safety gaps — which is exactly why I build evaluation frameworks and governance checkpoints before deployment, not after.\""
+        },
+        {
+          "label": "Why it matters to you",
+          "text": "Validates the need for independent AI governance practitioners who aren't deferring to vendor safety claims. That's your market."
+        }
+      ]
+    },
+    {
+      "title": "2 · AI Ethics Accountability Crisis",
+      "rows": [
+        {
+          "label": "What happened",
+          "text": "Four major AI labs in 2026 restructured away from ethics oversight — removing the people and structures responsible for it. (AIWeekly #523, Aug 17)"
+        },
+        {
+          "label": "How to capitalize",
+          "text": "LinkedIn angle: \"The frontier labs are dismantling ethics oversight just as enterprise buyers are starting to require it in procurement contracts. That gap is where AI Enablement and Governance leads operate.\""
+        },
+        {
+          "label": "Why it matters to you",
+          "text": "Vendor-side governance is contracting while enterprise-side demand is expanding. You're on the right side of that trade."
+        }
+      ]
+    },
+    {
+      "title": "3 · Enterprise AI ROI Data Landing",
+      "rows": [
+        {
+          "label": "What happened",
+          "text": "Companies with structured AI enablement programs are showing sustained adoption — not just deployment — in earnings calls. Boards are now tracking this metric directly."
+        },
+        {
+          "label": "How to capitalize",
+          "text": "Interview data point: \"Companies that invested in structured enablement earlier are the ones showing up in earnings calls with real adoption data. That mandate is what AI Enablement leads own.\""
+        },
+        {
+          "label": "Why it matters to you",
+          "text": "Adoption measurement is becoming a board-level KPI. You need 'sustained adoption measurement' explicitly in your resume and interview answers — not just 'program design.'"
+        }
+      ]
+    }
+  ],
+  "roleIntelligence": [
+    {
+      "track": "AI Enablement Lead / Senior / Head",
+      "trendingSkill": "ADMT compliance + sustained adoption measurement — JDs now distinguish between 'launched AI' and 'drove sustained adoption with measurable outcomes.'",
+      "whatItMeans": "NIST AI RMF + EU AI Act credentials are becoming procurement gates, not differentiators. Get ADMT-specific language into your resume now before it becomes table stakes.",
+      "showcaseIt": "\"Designed AI adoption programs with embedded CPPA ADMT compliance checkpoints, NIST AI RMF alignment, and sustained usage KPIs — governance built in before deployment, not retrofitted.\"",
+      "freeResource": {
+        "label": "NIST AI RMF Playbook",
+        "url": "https://airc.nist.gov/Docs/2"
+      }
+    },
+    {
+      "track": "AI Product Manager (Senior)",
+      "trendingSkill": "Evidence-based PMF validation before scaling — JDs explicitly call for 'validating product-market fit with clear evidence before scaling.'",
+      "whatItMeans": "Your Customer Intelligence Engine is a perfect example — but the discovery and validation phase needs to be more explicit in how you frame it. 'Built a thing' is not the same as 'validated PMF before scaling it.'",
+      "showcaseIt": "\"Ran structured discovery and evidence-based PMF validation across multiple user segments before scaling — documented in 12 PM artifacts including PRD, evaluation framework, and model card.\"",
+      "freeResource": {
+        "label": "Reforge PMF Framework",
+        "url": "https://www.reforge.com/blog/product-market-fit"
+      }
+    },
+    {
+      "track": "AI Program Manager",
+      "trendingSkill": "Human-in-the-loop governance design — JDs across the board call for guardrails, confidence thresholds, and approval gates for high-stakes agentic actions.",
+      "whatItMeans": "Your AI Governance Framework covers this deeply but the Project Master resume doesn't surface human-in-the-loop design explicitly enough. It's there — it's just not named.",
+      "showcaseIt": "\"Designed human-in-the-loop approval gates and confidence thresholds for agentic workflow deployment — aligned to NIST AI RMF and EU AI Act compliance requirements.\"",
+      "freeResource": {
+        "label": "OWASP Top 10 for LLM Applications",
+        "url": "https://owasp.org/www-project-top-10-for-large-language-model-applications/"
+      }
+    }
+  ],
+  "linkedinDraft": {
+    "angle": "Today's sharpest angle · C2PA / Proactive Governance",
+    "body": "Anthropic just made watermarking mandatory for all Claude outputs — effective August 2, 2026.\n\nEvery document, every draft, every AI-assisted deliverable now carries an invisible C2PA provenance signature tied to EU AI Act Article 50 obligations.\n\nMost enterprise AI programs don't know what to do with this yet.\n\nHere's what I've already been building into governance frameworks:\n\n→ AI content provenance mapping (what was generated, by what model, when)\n→ Disclosure workflows for client-facing deliverables\n→ Audit trails that satisfy both NIST AI RMF and EU AI Act Art. 50\n\nThe organizations that built governance before the regulation arrived are the ones that won't be scrambling now.\n\nProactive governance isn't a nice-to-have. It's the difference between leading an AI transformation and cleaning one up.\n\n#AIGovernance #AIEnablement #EUAIAct #C2PA #EnterpriseAI"
+  },
+  "risingSignal": {
+    "topic": "AI Agent Identity & Authorization",
+    "whatGainingTraction": "As autonomous agents gain access to enterprise systems (email, CRM, ERP, code repositories), how an agent proves its identity and gains scoped access permissions is surfacing in security and governance conversations. No mainstream standard yet — IETF and OWASP are starting to draft protocols. Expect this to appear in AI Enablement and AI PM JDs within 3–4 months.",
+    "whyItMatters": "You built Emdash — an autonomous agent with real access to tools, APIs, and data. You have firsthand practitioner knowledge of agent authorization design that almost no other candidate in your pool can claim. Start building the vocabulary now: agent identity management · delegated authorization for autonomous agents · least-privilege access design for agentic systems.",
+    "howToGetAhead": "Read OWASP Top 10 for LLM Applications (v2025) — specifically 'Excessive Agency' and 'Privilege Escalation' risks. This is the vocabulary your interviewers will be using in 6 months. Cite it in interviews now and you're already 2 cycles ahead."
+  },
+  "resumeGap": {
+    "todayFocus": "AIEnablement_v1",
+    "rotationNote": "Mon: AIEnablement_v1 · Tue: PM_v2 · Wed: Project_Master_v1 · Thu: One verbatim bullet rewrite · Fri: Cross-resume consistency check",
+    "gaps": [
+      {
+        "gap": "No mention of CPPA ADMT compliance — now appearing in enterprise AI governance procurement conversations.",
+        "addThisPhrase": "\"Designs AI adoption programs with embedded compliance checkpoints covering CPPA ADMT obligations, NIST AI RMF, and EU AI Act — governance built in before deployment, not retrofitted.\"",
+        "where": "Summary or Core Competencies"
+      },
+      {
+        "gap": "No explicit adoption measurement metrics. JDs want sustained usage rates and workflow integration KPIs — not just 'designed programs.'",
+        "addThisPhrase": "\"Sustained adoption measurement · AI content governance · CPPA ADMT compliance\"",
+        "where": "Core Competencies section"
+      },
+      {
+        "gap": "C2PA / content provenance governance absent — directly relevant given Anthropic watermarking news and Art. 50 enforcement timeline.",
+        "addThisPhrase": "\"Built C2PA content provenance governance checkpoints in anticipation of EU AI Act Art. 50 enforcement — validated by Anthropic's August 2026 watermarking rollout.\"",
+        "where": "Alinea Consulting engagement bullet"
+      }
+    ]
+  },
+  "tokenIntel": {
+    "hasFlag": true,
+    "deadline": "August 31, 2026",
+    "deadlineNote": "Claude Sonnet 5 introductory pricing ($2.00/$10.00 per M tokens) expires August 31. September 1 rates jump ~50%. Audit current usage volume. Migrate non-critical tasks to Haiku 4.5 or Gemini Flash before the cliff.",
+    "marketContext": "Frontier index: 12 (88% below 2023) · DeepSeek V3: $1.10/M output · Grok: $0.20/M input · GPT-4o: $5/M · Claude Opus: $15/M",
+    "optimizationAction": "Run a cost audit on your current Anthropic usage. Identify any always-on or high-volume tasks that can shift to Haiku 4.5 before September 1."
+  }
+}
